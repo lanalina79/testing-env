@@ -21,7 +21,7 @@ public class ZooClubService {
         elly1.makeSound();
         elly1.eat("apples");
 
-        elly.eat("apples");
+        elly.eat("apples!");
         elly.makeSound();
 
     }
